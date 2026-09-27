@@ -1,7 +1,7 @@
 cont_excelente  = 0
 cont_ruim = 0
 cont_bom = 0
-for i in range(1, 4):
+for i in range(1, 51):
     nome = input('Qual é o seu nome? ')
     idade = int(input('Qual é a sua idade? '))
     opnião = int(input('Qual é a sua opnião sobre a entrevista? digite 1: EXCELENTE. 2: BOM. 3: RUIM. '))
